@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Twitch Status](https://img.shields.io/twitch/status/reisu1337?logo=twitch&logoColor=white&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/reisu1337?style=plastic)
 
 ![boople](https://github-readme-stats.vercel.app/api/top-langs/?username=Reisu1337&theme=midnight-purple&layout=compact)
